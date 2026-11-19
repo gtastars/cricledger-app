@@ -21,4 +21,4 @@ This page only hosts the app downloads.
 ## Watch a live match
 
 Got a match code from the scorer? Watch in the app (**Watch a live match**) or in any browser:
-**https://usmanafzalkhan.github.io/cricledger-app/live/**
+**https://gtastarscricket.web.app/live/**
