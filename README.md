@@ -4,7 +4,7 @@ The cricket scoring app for match day. Score every ball, see live scorecards and
 
 ## Get the app (Android)
 
-**[Download the latest version](https://github.com/usmanAfzalKhan/cricledger-app/releases/latest)**
+**[Download the latest version](https://github.com/gtastars/cricledger-app/releases/latest)**
 
 1. Open the link on your Android phone and tap the **CricLedger .apk** file.
 2. When the download finishes, tap it to open.
@@ -14,7 +14,7 @@ Already have CricLedger? Installing the new version updates it and keeps your sa
 
 ---
 
-Founded by Taha Khan · Powered by [GTA Stars Cricket Club](https://usmanafzalkhan.github.io/gtastars/)
+Founded by Faize Khan · Powered by Taha Khan · [GTA Stars Cricket Club](https://gtastars.github.io/)
 
 This page only hosts the app downloads.
 
