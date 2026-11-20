@@ -14,7 +14,7 @@ Already have CricLedger? Installing the new version updates it and keeps your sa
 
 ---
 
-Founded by Faize Khan · Powered by Taha Khan · [GTA Stars Cricket Club](https://gtastars.github.io/)
+Powered by Taha Khan · [GTA Stars Cricket Club](https://gtastars.github.io/)
 
 This page only hosts the app downloads.
 
